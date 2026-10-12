@@ -1,16 +1,36 @@
-## Hi there 👋
+## Bonjour, je suis Elphège 👋 | Hi, I'm Elphège 👋
 
-<!--
-**ElphegeBonheur/ElphegeBonheur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Développeur Full-Stack** — Python · Node.js (NestJS) · React · PostgreSQL
 
-Here are some ideas to get you started:
+🔧 Technicien systèmes & réseaux — maintenance, réseau, vidéosurveillance, diagnostic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 En formation continue en cybersécurité défensive
+
+🎓 Master Génie Logiciel (en cours) — Abidjan, Côte d'Ivoire
+
+🌍 Ouvert aux opportunités en télétravail et à l'international — Open to remote & international opportunities
+
+---
+
+### 🛠️ Compétences / Skills
+
+| Domaine | Technologies |
+| --- | --- |
+| **Back-end** | Python (FastAPI), Node.js (NestJS, Express), PHP |
+| **Front-end** | React (TypeScript), HTML, CSS |
+| **Bases de données** | PostgreSQL, MySQL / MariaDB, SQLite |
+| **Systèmes & Réseaux** | TCP/IP, VLAN, routage, Linux |
+| **Sécurité** | authentification, hachage (argon2), bonnes pratiques OWASP |
+| **Outils** | Git, API REST, rapports PDF / Excel |
+
+---
+
+### 📫 Me contacter / Get in touch
+
+📧 **abouaelphege@gmail.com**
+
+📍 Abidjan, Côte d'Ivoire
+
+---
+
+💡 *Ce profil accueillera mes projets personnels et expérimentations.*
